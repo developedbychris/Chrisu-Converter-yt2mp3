@@ -1,5 +1,5 @@
 # Chrisu-Converter-yt2mp3
-
+This converts youtube videos to mp3 files.
 Requirements:
 
 •node.js
